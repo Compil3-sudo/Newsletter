@@ -7,4 +7,5 @@ available at https://newsletter-0001.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/46796342/201121338-78c989bd-4f48-4475-aee2-350b019c5543.png)
 
+![image](https://user-images.githubusercontent.com/46796342/201123910-509e03c9-e66d-4d0c-b42d-01e50ea4dc21.png)
 
