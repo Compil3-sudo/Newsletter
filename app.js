@@ -33,11 +33,11 @@ app.post("/", (req, res) => {
     };
 
     const jsonData = JSON.stringify(data);
-    const listID = "";    // audience ID
-    const url = "mailchimp" + listID;
+    const listID = "secret:)";    // audience ID
+    const url = "secret:) mailchimp secret:)" + listID;
     const options = {
         method: "POST",
-        auth: ""
+        auth: "secret:)"
     };
 
     const request = https.request(url, options, function(response) {
